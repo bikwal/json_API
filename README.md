@@ -6,5 +6,5 @@
 #### 💻 API находится по 👉[адресу](https://bravevillainousexponents.dbronskih.repl.co/characters)<br>
 #### При вестке страницы применены:👇
 #### ✔️ полностью на JS;
-#### ✔️ применена технология API-json ;
+#### ✔️ применена технология API-json.
 
